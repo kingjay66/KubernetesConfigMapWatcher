@@ -7,7 +7,7 @@
       <name>Kubernetes :: Deployer</name>
 
     <properties>
-        <camel-version>2.24.1</camel-version>
+        <camel-version>2.25.4</camel-version>
         <log4j2-version>2.16.0</log4j2-version>
     </properties>
 
